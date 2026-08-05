@@ -30,6 +30,6 @@ Created interactive dashboards to visualize business KPIs and sales performance.
 Research project on battery management systems and cell balancing techniques.
 
 ### Contact
-LinkedIn: (Add your LinkedIn link)
+LinkedIn:www.linkedin.com/in/akshara-upadhyay-a13993283
 
 GitHub: https://github.com/aksharaupadhyay08-crypto
