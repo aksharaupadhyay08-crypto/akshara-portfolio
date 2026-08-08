@@ -64,3 +64,19 @@ ul li {
 .certification strong {
     color: #2c3e50;
 }
+.skills-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 0;
+    list-style: none;
+}
+
+.skills-list li {
+    background: white;
+    padding: 10px 16px;
+    border-radius: 20px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    font-weight: bold;
+    color: #2c3e50;
+}
