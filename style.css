@@ -52,3 +52,15 @@ ul li {
 .project strong {
     color: #3498db;
 }
+.certification {
+    background: white;
+    padding: 15px 20px;
+    margin: 12px 0;
+    border-left: 4px solid #3498db;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.08);
+}
+
+.certification strong {
+    color: #2c3e50;
+}
